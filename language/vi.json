@@ -1,0 +1,13 @@
+{
+  "txt_ok": "Đồng ý",
+  "txt_retry": "Thử lại",
+  "txt_done": "Xong",
+  "txt_skip": "Bỏ qua",
+  "txt_waiting": "Vui lòng đợi....",
+  "txt_get_data_failed": "Tải dữ liệu thất bại",
+  "txt_re_get_data_failed": "Tải lại dữ liệu thất bại",
+  "txt_not_change": "Không có trường nào bị thay đổi",
+  "txt_request_logout": "Bạn thực sự muốn đăng xuất ?",
+  "txt_btn_send": "Gửi",
+  "txt_text_field_empty": "Không được để trống"
+}

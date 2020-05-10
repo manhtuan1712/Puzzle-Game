@@ -1,0 +1,13 @@
+{
+  "txt_ok": "OK",
+  "txt_retry": "Retry",
+  "txt_done": "Done",
+  "txt_skip": "Skip",
+  "txt_waiting": "Please wait....",
+  "txt_get_data_failed": "Get data failed",
+  "txt_re_get_data_failed": "Reload data failed",
+  "txt_not_change": "Không có trường nào bị thay đổi",
+  "txt_request_logout": "Bạn thực sự muốn đăng xuất ?",
+  "txt_btn_send": "Submit",
+  "txt_text_field_empty": "Không được để trống"
+}
