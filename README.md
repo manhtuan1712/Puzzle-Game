@@ -1,4 +1,4 @@
-# guess_word_game
+# Puzzle game on Flutter
 
 A new Flutter project.
 
